@@ -1,0 +1,10 @@
+{
+    "url": "https://xss.smarpo.com/test.yaml",
+    "urls": [{
+        "url": "https://xss.smarpo.com/test.yaml",
+        "name": "Foo"
+    },{
+        "url": "https://xss.smarpo.com/test2.yaml",
+        "name": "Foo2"
+    }]
+}
