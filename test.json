@@ -1,0 +1,10 @@
+{
+    "url": "https://raw.githubusercontent.com/SHUR1K-N/Swagger-XSS-Test/main/test.yaml",
+    "urls": [{
+        "url": "https://raw.githubusercontent.com/SHUR1K-N/Swagger-XSS-Test/main/test.yaml",
+        "name": "Foo"
+    },{
+        "url": "https://raw.githubusercontent.com/SHUR1K-N/Swagger-XSS-Test/main/test.yaml",
+        "name": "Foo2"
+    }]
+}
